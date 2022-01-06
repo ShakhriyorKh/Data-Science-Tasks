@@ -27,4 +27,4 @@ To answer these questions I walk through many different pandas & matplotlib meth
     Labeling our graphs
 
 Sample from the code with graph:
-![alt Sample from the code with grapth]()
+![alt Sample from the code with grapth](https://github.com/ShakhriyorKh/Data-Science-Tasks/blob/main/Sample.png)
