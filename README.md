@@ -1,5 +1,6 @@
 # Data-Science-Tasks
 
+I had sales data of each month of year 2019.
 I started by cleaning data. Tasks during this section include:
 
     Drop NaN values from DataFrame
